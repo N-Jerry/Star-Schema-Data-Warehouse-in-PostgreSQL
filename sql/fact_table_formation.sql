@@ -78,4 +78,10 @@ ALTER TABLE fact_financial
     ADD FOREIGN KEY (discount_band_id) REFERENCES discount_bands(discount_band_id),
     ADD FOREIGN KEY (order_date) REFERENCES date_table(full_date);
 
+-- DROP Unwanted columns from our fact table
+ALTER TABLE fact_financial
+    DROP COLUMN country,
+    DROP COLUMN segment,
+    DROP COLUMN product,
+    DROP COLUMN discount_band;
 
