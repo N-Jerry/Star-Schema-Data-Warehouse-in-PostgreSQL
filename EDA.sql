@@ -1,0 +1,3 @@
+-- EDA Analysis.
+-- Total sales country
+-- Total sales per product
