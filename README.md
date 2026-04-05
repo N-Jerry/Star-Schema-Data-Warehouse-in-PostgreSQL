@@ -146,8 +146,8 @@ Advanced SQL queries were written to extract insights from the data warehouse.
 
 #### 🟢 Business Performance
 
-* Total revenue by country
-* Revenue by product
+* Total sales by country
+* Sales by product
 * Sales by segment
 
 #### 🟡 Profitability Analysis
