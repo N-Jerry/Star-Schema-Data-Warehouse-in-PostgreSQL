@@ -175,7 +175,7 @@ Advanced SQL queries were written to extract insights from the data warehouse.
 
 ### Top Performing Countries
 
-![Query](images/query_1.png)
+![Sales by Country](images/top_countries_sales.png)
 
 ### Running Total Analysis
 
