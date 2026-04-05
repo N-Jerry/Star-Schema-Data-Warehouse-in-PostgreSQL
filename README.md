@@ -153,7 +153,8 @@ Advanced SQL queries were written to extract insights from the data warehouse.
 #### 🟡 Profitability Analysis
 
 * Profit margin by segment
-* Least profitable segments
+* Most profitable countries
+* Below Average profit segments
 * Discount impact on profitability
 
 #### 🔴 Time-Based Analysis
