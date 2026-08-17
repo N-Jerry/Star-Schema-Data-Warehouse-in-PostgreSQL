@@ -128,7 +128,7 @@ The fact table was built through a **step-by-step transformation process**, comb
 
 Below is the star schema used in this project:
 
-![Star Schema](images/schema.png)
+![Star Schema](images/image.png)
 
 This design improves:
 
